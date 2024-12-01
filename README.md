@@ -1,8 +1,6 @@
 Yo, Faruk here.
 
- **3rd Year Computer Science Student** at Constructor University, Bremen, Germany  
- Minor in Data Science  
- Passionate about Machine Learning, Data Science, and Software Engineering  
+LLM & Text Analysis Intern @Constructor Tech.
 
 ---
 
