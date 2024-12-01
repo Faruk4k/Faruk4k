@@ -1,6 +1,6 @@
 Yo, Faruk here.
 
-LLM & Text Analysis Intern @Constructor Tech.
+#### ->LLM & Text Analysis Intern @Constructor Tech.
 
 ---
 
