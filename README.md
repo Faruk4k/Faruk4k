@@ -2,6 +2,8 @@ Yo, Faruk here.
 
 #### ->LLM & Text Analysis Intern @Constructor Tech.
 
+
+## On Going Project: Real time odds analysis of betting sites through emulaiton.
 ---
 
 ##  Work Experience
