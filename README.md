@@ -36,7 +36,7 @@ Yo, Faruk here.
 ---
 
 ##  Skills
-- **Programming**: C, C++, Python, SQL, C#
+- **Programming**: C, C++, Python, SQL, C#, PHP, CSS, HTML
 - **Tools**: Jupyter Notebook, Dash, AutoML, Postman  
 - **Languages**: English (C1), Russian (B1), German (A2), Turkish (Native)
 
