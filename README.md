@@ -6,7 +6,7 @@ Yo, Faruk here.
 
 ---
 
-## 💼 Work Experience
+##  Work Experience
 - **Research Assistant** | Constructor University Strategy Unit (2024)  
   - Built interactive web tools for survey production and real-time result plotting.  
   - Worked on automated web scraping and NLP.  
@@ -20,7 +20,7 @@ Yo, Faruk here.
 
 ---
 
-## 📂 Projects
+##  Projects
 - **Hotel Management Website**  
   Multi-user permission system with SQL backend.  
 - **Network Packet Analysis**  
@@ -32,12 +32,12 @@ Yo, Faruk here.
 
 ---
 
-## 🔧 Skills
+##  Skills
 - **Programming**: C, C++, Python, SQL, C#
 - **Tools**: Jupyter Notebook, Dash, AutoML, Postman  
 - **Languages**: English (C1), Russian (B1), German (A2), Turkish (Native)
 
 ---
 
-🚀 Let's build something amazing together!  
-📧 farukdemirel.kz@gmail.com | [GitHub](https://github.com) | [LinkedIn](https://linkedin.com)
+ Open to Collabs!
+ farukdemirel.kz@gmail.com | [GitHub](https://github.com) | [LinkedIn](https://linkedin.com)
