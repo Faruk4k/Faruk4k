@@ -5,6 +5,11 @@ Yo, Faruk here.
 ---
 
 ##  Work Experience
+
+- **Text Analysis & LLM Intern** | Constructor Technology (2025)  
+  - Working on real time Text analysis scraped off online through keyphrases based on NLP and LLM models.
+
+
 - **Research Assistant** | Constructor University Strategy Unit (2024)  
   - Built interactive web tools for survey production and real-time result plotting.  
   - Worked on automated web scraping and NLP.  
